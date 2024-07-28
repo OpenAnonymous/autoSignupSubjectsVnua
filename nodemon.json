@@ -1,0 +1,9 @@
+{
+    "ext": "js",
+    "verbose": true,
+    "watch": ["src/*.js"],
+    "ignore": ["tests,tests-example"],
+    "execMap": {
+        "js": "babel-node"
+    }
+}
